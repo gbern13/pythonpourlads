@@ -23,7 +23,7 @@ Pour aller au-delà des tendances préliminaires identifiées par l'analyse desc
 ## **4. Conclusion**
 
 # **Structure du projet et fonctionnement**
-Tout le code d'analyse, visualisation et modélisation est contenu dans le fichier `nettoyage.ipynb`.  
+Tout le code d'analyse, visualisation et modélisation est contenu dans le fichier `main.ipynb`.  
 Le dataset provient d'un **bucket** et est importé directement dans le notebook. Le chemin d'accès aux données est défini dans le code.
 Pour l'exécuter il suffit d'ouvrir le notebook dans VS Code, et toutes les cellules peuvent être exécutées dans l'ordre pour reproduire l'analyse.  
 
