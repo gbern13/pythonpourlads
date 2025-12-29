@@ -28,7 +28,7 @@ Par la suite, nous avons modifié notre variable d'intérêt pour nous intéress
 Tout le code d'analyse, visualisation et modélisation est contenu dans le fichier `main.ipynb`.  
 Le dataset provient d'un **bucket** et est importé directement dans le notebook. Le chemin d'accès aux données est défini dans le code.
 
-Un fichier séparé contient les fonctions nécessaires à l’estimation des régressions linéaires. Ces fonctions ont été spécifiquement conçues pour prendre en compte les **poids d’échantillonnage PISA**, indispensables dans le cadre d’une enquête afin d’obtenir des estimations représentatives de la population étudiée.
+Un fichier séparé contient les fonctions nécessaires à l’estimation des régressions linéaires : `functions.ipynb`. Ces fonctions ont été spécifiquement conçues pour prendre en compte les **poids d’échantillonnage PISA**, indispensables dans le cadre d’une enquête afin d’obtenir des estimations représentatives de la population étudiée.
 Ces fonctions sont appelées dans le notebook principal lors de la phase de modélisation.
 
 Pour executer le projet il suffit d'ouvrir le notebook `main.ipynb` dans VS Code, et toutes les cellules peuvent être exécutées dans l'ordre pour reproduire l'analyse.  
