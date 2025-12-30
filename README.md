@@ -25,6 +25,8 @@ Par la suite, nous avons modifié notre variable d'intérêt pour nous intéress
 
 ## **4. Conclusion**
 
+Les résultats confirment partiellement l'existence d'un point optimal. Un résultat inattendu concernant l'effet des ressources numériques a émergé.
+
 # **Structure du projet et fonctionnement**
 Tout le code d'analyse, visualisation et modélisation est contenu dans le fichier `main.ipynb`.  
 Le dataset provient d'un **bucket** et est importé directement dans le notebook. Le chemin d'accès aux données est défini dans le code.
